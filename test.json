@@ -1,5 +1,7 @@
 {
-  "title": "Learn React",
-  "description": "A JavaScript library for building user interfaces.",
-  "author": "Meta (Facebook)"
+  "people": [
+    { "name": "Alice", "age": 25, "profession": "Developer" },
+    { "name": "Bob", "age": 30, "profession": "Designer" },
+    { "name": "Charlie", "age": 35, "profession": "Manager" }
+  ]
 }
